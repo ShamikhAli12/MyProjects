@@ -1,1 +1,1 @@
-
+The news classificator is built to predict and classify news headlines into categories. It is trained using the 'test.csv' dataset and tested using a small dataset given in the code and it also predicts almost 90% of the news headlines correctly.
