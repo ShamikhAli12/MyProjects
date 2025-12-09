@@ -1,7 +1,8 @@
 Project Overview — Multi-Class Sentiment Analysis on Product Reviews
-  This project focuses on building a Deep Learning–based sentiment analysis model that predicts product ratings (from 1 to 5 stars) based on customer review text. Unlike simple binary sentiment analysis (positive/negative), this is a multi-class classification problem, where each review is mapped to one of five sentiment levels.
+  	This project focuses on building a Deep Learning–based sentiment analysis model that predicts product ratings (from 1 to 5 stars) based on customer review text. Unlike simple binary sentiment analysis (positive/negative), this is a multi-class classification problem, where each review is mapped to one of five sentiment levels.
 
 Objective
+
   Develop a model that can automatically analyze a written review and classify it into:
     1 star → Very Negative
     2 stars → Negative
